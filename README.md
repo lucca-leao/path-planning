@@ -29,3 +29,7 @@ python3 scripts/gvd.py
 ```
 python3 scripts/boustrophedon.py
 ```
+# Videos
+- [A*](https://youtube.com/shorts/AgSWtU_pL00?feature=share)
+- [RRT](https://youtube.com/shorts/Bc41di0hBDk?feature=share)
+- [Boustrophedon](https://youtu.be/ldUx_XrVpcE)
